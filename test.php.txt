@@ -1,4 +1,5 @@
 <?php
 //echo phpinfo();
-
 echo "helllo world";
+
+var_dump($__SERVER);
